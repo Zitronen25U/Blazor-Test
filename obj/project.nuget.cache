@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fCO43NggMHx/29bG8rqJM84xF2u2og9vDWvfDhvn+5tYz0MkBXof1EQ3AGrtZYqgHmOzQAdGrmyyGHmC6asiwA==",
+  "dgSpecHash": "DWQ+Hz0WBbL72yYY2CgnPof27YXo4Ovtyadx+vcc1/uaWiNSf2/K1QobniIrPwUd5MQxsjY9aqJGXUV5i47YWg==",
   "success": true,
   "projectFilePath": "/home/zitronen/Code/dotnet/BlazorApp/BlazorApp.csproj",
   "expectedPackageFiles": [],
